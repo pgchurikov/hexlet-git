@@ -1,3 +1,3 @@
 I love Hexlet!
 
-Hexlet is awesome too!
+Something important.
